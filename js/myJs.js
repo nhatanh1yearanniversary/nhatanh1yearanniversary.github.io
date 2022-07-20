@@ -11,7 +11,7 @@ const textConfig = {
   text9: "Vâng ạ! Em yêu anh lắm! (^.^)",
   text10: "Anh biết mà, hihi ^--^!!!",
   text11:
-    "Happy 1 year anniversary! Cảm ơn em vì luôn đồng hành với anh trong suốt thời gian qua nha! ",
+    "Happy 1 year anniversary! Cảm ơn em vì luôn đồng hành với anh trong suốt thời gian qua nha! Nhắn tin cho anh đi nèo! <3 ",
   text12: "Okii lunn <3",
 };
 
